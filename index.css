@@ -1,0 +1,59 @@
+.nav-bar-button {
+    color: goldenrod;
+    border-color: goldenrod;
+}
+
+.btn-to-block {
+   display:block; 
+   text-align: left;
+   color: goldenrod;
+}
+
+.login{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+label {
+    text-align: left;
+}
+
+.btn-login {
+    align-items: initial;
+} 
+
+.img-area{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    max-width: 1080px;
+    margin: auto;
+}
+
+.single-image{
+    padding: 0 20px 20px;
+
+}
+/* .mainpage {
+
+      ul {
+        display: flex;
+        flex-wrap: wrap;
+      }
+      
+      li {
+        height: 40vh;
+        flex-grow: 1;
+      }
+      
+      img {
+        max-height: 100%;
+        min-width: 100%;
+        object-fit: cover;
+        vertical-align: bottom;
+      }
+}
+ */
